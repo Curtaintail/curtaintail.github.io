@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: blog
 title: Essay
 slug: essay
 menu: true
